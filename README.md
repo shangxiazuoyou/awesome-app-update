@@ -7,3 +7,15 @@
 - [update](https://github.com/czy1121/update) -清晰灵活简单易用的应用更新库
 
 - [AutoUpdateProject](https://github.com/MZCretin/AutoUpdateProject) -App 内部更新 多种更新界面选择 强制更新 防止多次下载
+
+- [UpdateApp](https://github.com/yaming116/UpdateApp) -app update, is mainly responsible for app download and installation, etc. 开箱即用的app更新，主要负责软件下载、软件安装等
+
+- [UpdatePlugin](https://github.com/yjfnypeu/UpdatePlugin) -可任意定制的app更新组件
+
+- [AppUpdate](https://github.com/fccaikai/AppUpdate) -android app update library
+
+- [UpdateDemo](https://github.com/hugeterry/UpdateDemo) -Android APP update library./android app自动检测更新库
+
+- [CheckUpdateLibrary](https://github.com/qiangxi/CheckUpdateLibrary) -Android检查更新库
+
+- [AndroidUpdate](https://github.com/openproject/AndroidUpdate) -update library for android
