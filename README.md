@@ -19,3 +19,5 @@
 - [CheckUpdateLibrary](https://github.com/qiangxi/CheckUpdateLibrary) -Android检查更新库
 
 - [AndroidUpdate](https://github.com/openproject/AndroidUpdate) -update library for android
+
+- [AppUpdate](https://github.com/fccaikai/AppUpdate) -android app update library
